@@ -13,9 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name/>
-	<build>
-    <finalName>demo</finalName>
-  </build>
+
 	<description/>
 	<url/>
 	<licenses>
@@ -51,6 +49,7 @@
 	</dependencies>
 
 	<build>
+	  <finalName>demo</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
