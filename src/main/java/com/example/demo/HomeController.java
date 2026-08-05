@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class HomeController {
-	@RequestMapping("/hello")
+	@RequestMapping("/home/hello")
     @ResponseBody
     public String helloGFG() {
         return "Hello Welcome";
