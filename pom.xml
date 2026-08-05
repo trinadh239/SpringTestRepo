@@ -13,6 +13,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name/>
+	<build>
+    <finalName>demo</finalName>
+  </build>
 	<description/>
 	<url/>
 	<licenses>
